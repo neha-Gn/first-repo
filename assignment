@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Favourite Food Recipe:</title>
+  </head>
+  <body>
+
+    <h1>PASTA</h1>
+    <h2>Recipe of the Pasta</h2>
+<p>This is my favourite food. Let's learn the recipe!</p>
+<p><strong>Ingredients</strong></p>
+<ul>
+    <li>Pasta</li>
+    <li>Capsicum</li>
+    <li>Onion</li>
+    <li>Tomatoes</li>
+    <li>Ginger</li>
+    <li>Garlic</li>
+    <li>Green Chilli</li>
+    <li>Cooking Oil</li>
+    <li>sauce</li>
+</ul>
+
+<p><strong>Instruction</strong></p>
+<ol>
+    <li>Boil Pasta</li>
+    <li>Heat the cooking oil</li>
+    <li>Add ginger,garlic and green chilli paste</li>
+    <li>Then add onion,capsicum and saute  till until golden brown</li>
+    <li>Add salt and sauce</li>
+    <li>Then add cooked pasta ,mix it well</li>
+</ol>
+</body>
+</html>
